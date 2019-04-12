@@ -1,0 +1,20 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.0'
+      jupytext_version: 0.8.6
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+---
+
+Coastal areas can act as shelf pumps for carbon dioxide (Tsunogai 1999, Thomas 2004) and it is determined by local carbon budget.
+In turn total alkalinity (TA) is an essential component of coastal carbon budget.
+
+```{python}
+
+```
