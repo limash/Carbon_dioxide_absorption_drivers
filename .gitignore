@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 data/
-wadden_sea.nc
 
 # C extensions
 *.so
