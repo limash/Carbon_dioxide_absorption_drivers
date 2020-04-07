@@ -1,6 +1,8 @@
 '''
 Created on 28. jun. 2017
 @author: ELP
+
+Depicts the data from NetCDF file produced by SPBM
 '''
 
 import os
